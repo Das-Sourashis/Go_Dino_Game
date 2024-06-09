@@ -1,0 +1,9 @@
+Exception in thread "Thread-2" java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at mainPackage.Game.update(Game.java:207)
+	at mainPackage.Game.run(Game.java:178)
+	at java.base/java.lang.Thread.run(Thread.java:1623)

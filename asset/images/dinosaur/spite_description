@@ -1,0 +1,5 @@
+idle = 4;
+run = 6;
+kick = 4;
+hit = 3
+sprint = 7;
