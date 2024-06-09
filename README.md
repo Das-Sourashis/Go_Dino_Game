@@ -39,11 +39,11 @@ Dino Run is an endless runner game where you control a dinosaur through various 
 
 ## Demo
 
-![Screenshot](Screenshots/s1.gif)
+![s1](https://github.com/Das-Sourashis/Go_Dino_Game/assets/148188936/0201e989-2ff7-4b98-825a-467a3cf7cd71)
 ###
-![Screenshot](Screenshots/s2.gif)
+![s2](https://github.com/Das-Sourashis/Go_Dino_Game/assets/148188936/6d7106e8-bb02-4f00-81f1-5a59cd0bd70a)
 ###
-![Screenshot](Screenshots/s3.gif)
+![s3](https://github.com/Das-Sourashis/Go_Dino_Game/assets/148188936/d465ad5a-35ac-4ac6-b662-87aad434a256)
 
 ## Credits
 
